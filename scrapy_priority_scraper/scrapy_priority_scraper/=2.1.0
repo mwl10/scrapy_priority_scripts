@@ -1,0 +1,10 @@
+Collecting PyPyDispatcher
+  Downloading PyPyDispatcher-2.1.2.tar.gz (23 kB)
+Building wheels for collected packages: PyPyDispatcher
+  Building wheel for PyPyDispatcher (setup.py): started
+  Building wheel for PyPyDispatcher (setup.py): finished with status 'done'
+  Created wheel for PyPyDispatcher: filename=PyPyDispatcher-2.1.2-py3-none-any.whl size=11484 sha256=be514a629657b539de41245335e3706c2d6472e3c658c66a0ea979cc6ae11947
+  Stored in directory: /Users/matthewlowery/Library/Caches/pip/wheels/16/8c/52/f22ad3244e14f929596a00531c24aaa8a47e9f863ad379aaa5
+Successfully built PyPyDispatcher
+Installing collected packages: PyPyDispatcher
+Successfully installed PyPyDispatcher-2.1.2
